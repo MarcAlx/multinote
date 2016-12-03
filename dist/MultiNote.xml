@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ColorNote>
+  <Settings id="0">
+    <bgr>255</bgr>
+    <bgg>255</bgg>
+    <bgb>255</bgb>
+    <fgr>0</fgr>
+    <fgg>0</fgg>
+    <fgb>0</fgb>
+    <lx>320</lx>
+    <ly>200</ly>
+    <w>500</w>
+    <h>500</h>
+    <opl>70</opl>
+    <fs>16</fs>
+    <ns>1</ns>
+    <content>Welcome to MultiNote
+
+A simple software to take notes, fully personalizable.
+
+Your notes and your preferences are automatically saved.
+
+01/01 Enjoy !
+</content>
+  </Settings>
+</ColorNote>
