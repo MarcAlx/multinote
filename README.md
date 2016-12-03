@@ -15,3 +15,7 @@ Usable jar is provided in "Release" folder. toaster.jar is provided in "dist" fo
 ##Possible improvements
 
 - Improve save (with serialization)
+
+## License
+
+Released under Apache License 2.0
